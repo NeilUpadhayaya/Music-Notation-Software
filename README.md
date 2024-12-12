@@ -20,6 +20,8 @@ This script above spawns in sharps and flats depending on the button input. It d
 
 ![Image of Code](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/code%20pt5.png)
 
+The Sound Generator plays sounds when a input is pressed.
+
 
 
 
