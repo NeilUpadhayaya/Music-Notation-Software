@@ -16,6 +16,10 @@ The images attached above are from the note spawner script. This is what allows 
 
 This script above spawns in sharps and flats depending on the button input. It detects where the note is and puts the sign directly there.
 
+**SoundGenerator**
+
+![Image of Code](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/code%20pt5.png)
+
 
 
 
