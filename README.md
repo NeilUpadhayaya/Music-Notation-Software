@@ -28,6 +28,13 @@ The Sound Generator plays sounds when a input is pressed.
 
 This function allows you see replay the sheet music and see the notes you have played.
 
+**Misc Functions**
+
+![Image of Code](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/code%20pt%207.png)
+![Image of Code](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/code%20pt%208.png)
+![Image of Code](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/code%20pt%209.png)
+
+
 
 
 
