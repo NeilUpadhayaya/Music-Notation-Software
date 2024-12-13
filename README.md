@@ -22,6 +22,16 @@ This script above spawns in sharps and flats depending on the button input. It d
 
 The Sound Generator plays sounds when a input is pressed.
 
+**ReplayFunction**
+
+![Image of Code](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/code%20pt%208.png)
+
+This function allows you see replay the sheet music and see the notes you have played.
+
+
+
+
+
 
 
 
