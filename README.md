@@ -34,6 +34,8 @@ This function allows you see replay the sheet music and see the notes you have p
 ![Image of Code](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/code%20pt%208.png)
 ![Image of Code](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/code%20pt%209.png)
 
+These scripts control the functions of restarting the software, creating a fade screen when you start the scene, and start/ restart sounds.
+
 
 
 
