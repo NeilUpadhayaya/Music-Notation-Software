@@ -36,6 +36,14 @@ This function allows you see replay the sheet music and see the notes you have p
 
 These scripts control the functions of restarting the software, creating a fade screen when you start the scene, and start/ restart sounds.
 
+**Arduino Code**
+
+![Image of Code] (Screenshot 2024-10-22 093651.png)
+
+This script allows the arduino to communicate with the computer by turning its inputs to selective keys on the keyboard.
+
+
+
 
 
 
