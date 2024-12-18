@@ -38,7 +38,7 @@ These scripts control the functions of restarting the software, creating a fade 
 
 **Arduino Code**
 
-![Image of Code] (Screenshot 2024-10-22 093651.png)
+![Image of Code](Screenshot 2024-10-22 093651.png)
 
 This script allows the arduino to communicate with the computer by turning its inputs to selective keys on the keyboard.
 
