@@ -10,18 +10,19 @@ public class CameraSwitch : MonoBehaviour
     public GameObject destroyTrigger;
     public GameObject eSpawner, fSpawner, gSpawner, aSpawner, bSpawner, cSpawner, dSpawner, hieSpawner;
     public GameObject aFlat,bFlat,cSharp,eFlat,fSharp;
-    public AudioSource replaySound;
+    public GameObject replaySound;
+    
     // Start is called before the first frame update
     void Start()
     {
         Camera1.SetActive(true);
         Camera2.SetActive(false);
         destroyTrigger.gameObject.SetActive(false);
+        
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         CameraTwo();
-        replaySound.Play();
         destroyTrigger.gameObject.SetActive(true);
         cSpawner.gameObject.SetActive(false);
         dSpawner.gameObject.SetActive(false);
@@ -36,7 +37,7 @@ public class CameraSwitch : MonoBehaviour
         cSharp.SetActive(false);
         eFlat.SetActive(false);
         fSharp.SetActive(false);
-
+        replaySound.SetActive(false);
 
     }
 
