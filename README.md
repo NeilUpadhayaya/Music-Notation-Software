@@ -48,7 +48,7 @@ This script allows the arduino to communicate with the computer by turning its i
 
 This is the original breadboard design for the arduino keyboard. It contains the structure of the wires and resistors.
 
-**Finished Circuit board**
+**Finished Circuitboard**
 
 ![Image of Circuit Board](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/SolderedBoard.png)
 ![Image of Circuit Board](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/finishedprokect.png)
