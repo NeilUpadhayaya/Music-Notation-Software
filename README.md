@@ -42,9 +42,13 @@ These scripts control the functions of restarting the software, creating a fade 
 
 This script allows the arduino to communicate with the computer by turning its inputs to selective keys on the keyboard.
 
+**Prototype Breadboard**
+
 ![Image of Breadboard](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/breadboard.png)
 
 This is the original breadboard design for the arduino keyboard. It contains the structure of the wires and resistors.
+
+**Finished Circuit board**
 
 ![Image of Circuit Board](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/SolderedBoard.png)
 ![Image of Circuit Board](https://github.com/NeilUpadhayaya/Music-Notation-Software/blob/main/finishedprokect.png)
